@@ -14,7 +14,7 @@
             else
             
               alert("Password incorrect!");
-              alert("You a Lame nigga");
+              alert("You a Lame nigga!");
                 
                 window.location="http://www.xvideos.com/";
             }    
