@@ -14,10 +14,10 @@
             else
             
               alert("Password incorrect!");
-              alert("You a Lame nigga!");
-              alert("but don't worry!");
+              alert("You're lame!");
+              alert("But don't worry!");
               alert("I can help you! Follow me!");
               
                 
-                window.location="http://www.xvideos.com/";
+                window.location="http://www.wikihow.com/Not-Be-Lame";
             }    
