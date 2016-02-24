@@ -1,8 +1,8 @@
 
 
 
-var password 
-var pass1 = ('nick');
+var password; 
+var pass1 ="nick";
 
 function getPass(element);
 
