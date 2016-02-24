@@ -11,7 +11,7 @@
             password=prompt('Please enter the password to view this page!','');
             
             if(password==pass1)
-            alert('Password correct! Click OK to enter'); { break; }
+            alert('Password correct! Click OK to enter');
             else
             
               alert("Password incorrect!");
