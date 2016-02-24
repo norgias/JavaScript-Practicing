@@ -7,10 +7,11 @@
             var pass1="password";
             
       function getPass(element) {
+            for (var i = 0; i++)
             password=prompt('Please enter the password to view this page!','');
             
             if(password==pass1)
-            alert('Password correct! Click OK to enter');
+            alert('Password correct! Click OK to enter'); { break; }
             else
             
               alert("Password incorrect!");
