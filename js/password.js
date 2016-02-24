@@ -7,7 +7,7 @@
             var pass1="password";
             
       function getPass(element) {
-            for (var i = 0; i++)
+           
             password=prompt('Please enter the password to view this page!','');
             
             if(password==pass1)
