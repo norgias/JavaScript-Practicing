@@ -12,7 +12,7 @@
             
             if(password==pass1)
             alert('Password correct! Click OK to enter');
-            else
+            else                 {
             
               alert("Password incorrect!");
               alert("You're lame!");
@@ -20,5 +20,10 @@
               alert("I can help you! Follow me!");
               
                 
+            
+            
                 window.location="http://www.wikihow.com/Not-Be-Lame";
-            }    
+            
+            }            
+            }
+            
